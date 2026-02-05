@@ -609,7 +609,6 @@
             const companiesData = await fetchJsonFile('serbian_companies.json');
             companiesGrid.setGridOption('rowData', companiesData);
             document.getElementById('badge-companies').textContent = companiesData.length;
-            updateStats(companiesData);
 
             const foundersData = await fetchJsonFile('serbian_founders.json');
             foundersGrid.setGridOption('rowData', foundersData);
@@ -618,17 +617,19 @@
             const katapultData = await fetchJsonFile('katapult.json');
             katapultGrid.setGridOption('rowData', katapultData);
             document.getElementById('badge-katapult').textContent = katapultData.length;
+
+            updateStats(companiesData, foundersData, katapultData);
         }
 
-        function updateStats(data) {
-            const companies = data.length;
-            const founders = data.length;
-            const scored = data.filter(d => d.overall_weighted_score);
+        function updateStats(companiesData, foundersData, katapultData) {
+            const companies = companiesData.length;
+            const totalFounders = companiesData.length + foundersData.length + katapultData.length;
+            const scored = companiesData.filter(d => d.overall_weighted_score);
             const avgScore = scored.reduce((sum, d) => sum + d.overall_weighted_score, 0) / (scored.length || 1);
             const highScore = scored.filter(d => d.overall_weighted_score >= 7).length;
 
             document.getElementById('stat-companies').textContent = companies;
-            document.getElementById('stat-founders').textContent = founders;
+            document.getElementById('stat-founders').textContent = totalFounders;
             document.getElementById('stat-avg-score').textContent = avgScore.toFixed(1);
             document.getElementById('stat-high-score').textContent = highScore;
         }
