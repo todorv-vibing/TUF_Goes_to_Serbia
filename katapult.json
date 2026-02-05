@@ -1,5 +1,16 @@
 [
   {
+    "company_name": "DeepMark",
+    "company_website": "https://www.deepmark.me",
+    "person_linkedin_url": "https://www.linkedin.com/in/slavkokovacevic/",
+    "company_linkedin_url": "https://www.linkedin.com/company/deepmark",
+    "founder_name": "Slavko Kovacevic",
+    "founder_score": 9,
+    "product_score": 9,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 8.1
+  },
+  {
     "company_name": "Tricoman Studios",
     "company_website": "https://tricomanstudios.com/",
     "person_linkedin_url": "https://www.linkedin.com/in/borislavvesnic/",
@@ -31,17 +42,6 @@
     "product_score": 7,
     "market_opportunity_score": 6,
     "overall_weighted_score": 5.2
-  },
-  {
-    "company_name": "DeepMark",
-    "company_website": "https://www.deepmark.me",
-    "person_linkedin_url": "https://www.linkedin.com/in/slavkokovacevic/",
-    "company_linkedin_url": "https://www.linkedin.com/company/deepmark",
-    "founder_name": "Slavko Kovacevic",
-    "founder_score": 9,
-    "product_score": 9,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
   },
   {
     "company_name": "MoveRev",

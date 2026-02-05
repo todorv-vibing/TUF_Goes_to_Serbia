@@ -186,7 +186,7 @@ console.log(`  → ${serbianFounders.length} founders saved`);
 
 // ========== FILE 3: Katapult Accelerator ==========
 console.log('Parsing Katapult Accelerator...');
-const file3 = fs.readFileSync(path.join(__dirname, '..', 'Downloads', 'Katapult-Default-view-export-1770295394373.csv'), 'utf8');
+const file3 = fs.readFileSync(path.join(__dirname, '..', 'Downloads', 'Katapult-Default-view-export-1770299010351.csv'), 'utf8');
 const rows3 = parseCSV(file3);
 const headers3 = rows3[0];
 
