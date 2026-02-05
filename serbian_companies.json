@@ -33,6 +33,17 @@
     "overall_weighted_score": 8.1
   },
   {
+    "company_name": "The Cyber Protect",
+    "company_website": "https://thecyberprotect.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/gordic",
+    "company_linkedin_url": "https://www.linkedin.com/company/thecyberprotect/",
+    "founder_name": "Marko Gordić",
+    "founder_score": 9,
+    "product_score": 8,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 7.999999999999999
+  },
+  {
     "company_name": "QAgenAI",
     "company_website": "https://qagenai.com",
     "person_linkedin_url": "https://www.linkedin.com/in/nikola-bozic-94b29a39a",
@@ -75,6 +86,17 @@
     "product_score": 7,
     "market_opportunity_score": 8,
     "overall_weighted_score": 7.9
+  },
+  {
+    "company_name": "Generative Engine Optimization Platform (Stealth Mode)",
+    "company_website": "https://placeholder.page",
+    "person_linkedin_url": "https://www.linkedin.com/in/irina-luchak",
+    "company_linkedin_url": "https://www.linkedin.com/company/generative-engine-optimization-platform/",
+    "founder_name": "Irina Luchak",
+    "founder_score": 8,
+    "product_score": 6,
+    "market_opportunity_score": 8,
+    "overall_weighted_score": 7.800000000000001
   },
   {
     "company_name": "Mena Health",
@@ -187,6 +209,17 @@
     "overall_weighted_score": 7.55
   },
   {
+    "company_name": "Refine",
+    "company_website": "https://refine-skills.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/alex-refine",
+    "company_linkedin_url": "https://www.linkedin.com/company/refine-skills/",
+    "founder_name": "Aleksandar Stojanovic",
+    "founder_score": 9,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 7.55
+  },
+  {
     "company_name": "Plunid",
     "company_website": "https://plunid.com",
     "person_linkedin_url": "https://www.linkedin.com/in/dragan-kolarevic-967a19b2",
@@ -291,6 +324,17 @@
     "person_linkedin_url": "https://www.linkedin.com/in/yury-anishchenko",
     "company_linkedin_url": "https://www.linkedin.com/company/tecdelivery/",
     "founder_name": "Yury Anishchenko",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 7.1000000000000005
+  },
+  {
+    "company_name": "Dialog AI",
+    "company_website": "https://dialog.ltd",
+    "person_linkedin_url": "https://www.linkedin.com/in/kseniia-petrova-cpo",
+    "company_linkedin_url": "https://www.linkedin.com/company/dialog-ai-solutions/",
+    "founder_name": "Kseniia Petrova",
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 6,
@@ -407,6 +451,17 @@
     "overall_weighted_score": 7.1000000000000005
   },
   {
+    "company_name": "Prepia",
+    "company_website": "https://prepia.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/viktor-pešić-44a19a17b",
+    "company_linkedin_url": "https://www.linkedin.com/company/prepia/",
+    "founder_name": "Viktor Pešić",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 7.1000000000000005
+  },
+  {
     "company_name": "Dataware",
     "company_website": "https://dataware.dev",
     "person_linkedin_url": "https://www.linkedin.com/in/irina-radojevic",
@@ -427,6 +482,28 @@
     "product_score": 8,
     "market_opportunity_score": 6,
     "overall_weighted_score": 7.1000000000000005
+  },
+  {
+    "company_name": "Leadlix",
+    "company_website": "https://webflow.io",
+    "person_linkedin_url": "https://www.linkedin.com/in/aleksandar-stojadinovic-leadlix",
+    "company_linkedin_url": "https://www.linkedin.com/company/leadlix/",
+    "founder_name": "Aleksandar Stojadinovic",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 7.1000000000000005
+  },
+  {
+    "company_name": "CypherBlk",
+    "company_website": "https://cypherblk.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/mmihic96",
+    "company_linkedin_url": "https://www.linkedin.com/company/cypherblk/",
+    "founder_name": "Miloš Mihić",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 7.1
   },
   {
     "company_name": "Lawcrative",
@@ -550,6 +627,17 @@
     "overall_weighted_score": 7.000000000000001
   },
   {
+    "company_name": "Yunee - AI Logo Generator",
+    "company_website": "https://yunee.io",
+    "person_linkedin_url": "https://www.linkedin.com/in/aleksandra-ilic-4676a511b",
+    "company_linkedin_url": "https://www.linkedin.com/company/yunee-ai-logo-generator/",
+    "founder_name": "Aleksandra Ilic",
+    "founder_score": 9,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 7
+  },
+  {
     "company_name": "Eqo | Employee Referral Solution for Frontline Teams",
     "company_website": "https://eqorefer.com",
     "person_linkedin_url": "https://www.linkedin.com/in/lukanici",
@@ -638,6 +726,17 @@
     "overall_weighted_score": 6.6499999999999995
   },
   {
+    "company_name": "Cordant Health Solutions",
+    "company_website": "https://cordantsolutions.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/stefan-stamenović-8a6756172",
+    "company_linkedin_url": "https://www.linkedin.com/company/cordant-health-solutions",
+    "founder_name": "Stefan Stamenović",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
     "company_name": "Rayn HQ",
     "company_website": "https://rayn.io",
     "person_linkedin_url": "https://www.linkedin.com/in/berislavkovacki",
@@ -646,6 +745,39 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 6,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
+    "company_name": "PropFusion",
+    "company_website": "https://propfusion.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/ivankupresanin",
+    "company_linkedin_url": "https://www.linkedin.com/company/propfusion/",
+    "founder_name": "Ivan Kuprešanin",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
+    "company_name": "WhereToPark",
+    "company_website": "https://wheretoparkapp.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/vedran-novak-b7a71050",
+    "company_linkedin_url": "https://www.linkedin.com/company/wheretoparksrbija/",
+    "founder_name": "Vedran Novak",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
+    "company_name": "Written",
+    "company_website": "https://written.app",
+    "person_linkedin_url": "https://www.linkedin.com/in/olga-alexeeva-84245636",
+    "company_linkedin_url": "https://www.linkedin.com/company/written-app/",
+    "founder_name": "Olga Alexeeva",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 5,
     "overall_weighted_score": 6.6499999999999995
   },
   {
@@ -715,6 +847,28 @@
     "overall_weighted_score": 6.6499999999999995
   },
   {
+    "company_name": "Nyron AI",
+    "company_website": "https://nyron.ai",
+    "person_linkedin_url": "https://www.linkedin.com/in/ydrogan",
+    "company_linkedin_url": "https://www.linkedin.com/company/nyron/",
+    "founder_name": "Yuri Drogan",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
+    "company_name": "TenPal",
+    "company_website": "https://tenpal.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/konstantin-milovanovic-75115a11b",
+    "company_linkedin_url": "https://www.linkedin.com/company/tenpal/",
+    "founder_name": "Konstantin Milovanovic",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
     "company_name": "Dubformer",
     "company_website": "https://dubformer.ai",
     "person_linkedin_url": "https://www.linkedin.com/in/lenafromwest",
@@ -757,6 +911,39 @@
     "product_score": 8,
     "market_opportunity_score": 5,
     "overall_weighted_score": 6.6499999999999995
+  },
+  {
+    "company_name": "Prepia",
+    "company_website": "https://prepia.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/viktor-pesic-44a19a17b",
+    "company_linkedin_url": "https://www.linkedin.com/company/prepia/",
+    "founder_name": "Viktor Pesic",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
+    "company_name": "HealOutSource",
+    "company_website": "https://healoutsource.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/natalia-meretskaia",
+    "company_linkedin_url": "https://www.linkedin.com/company/healoutsource/",
+    "founder_name": "Natalia Meretskaia",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.6499999999999995
+  },
+  {
+    "company_name": "MeriMeri d.o.o.",
+    "company_website": "https://merimeri.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/ivan-lazic-0a5801ab",
+    "company_linkedin_url": "https://www.linkedin.com/company/merimeri-d-o-o/",
+    "founder_name": "Ivan Lazic",
+    "founder_score": 9,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 6.55
   },
   {
     "company_name": "BluBubl",
@@ -825,6 +1012,17 @@
     "overall_weighted_score": 6.55
   },
   {
+    "company_name": "Protocol CRM",
+    "company_website": "https://protocolcrm.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/dijana-keri",
+    "company_linkedin_url": "https://www.linkedin.com/company/protocol-crm/",
+    "founder_name": "Dijana Keri",
+    "founder_score": 8,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.55
+  },
+  {
     "company_name": "WasItAI",
     "company_website": "https://wasitai.com",
     "person_linkedin_url": "https://www.linkedin.com/in/bojan-petkovic-1b3681a1",
@@ -833,6 +1031,28 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 6,
+    "overall_weighted_score": 6.55
+  },
+  {
+    "company_name": "Pet Alert",
+    "company_website": "https://petalert.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/nina-nedeljkovic-63a68949",
+    "company_linkedin_url": "https://www.linkedin.com/company/pet-alert-rs/",
+    "founder_name": "Nina Nedeljkovic",
+    "founder_score": 8,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.55
+  },
+  {
+    "company_name": "IT Bridge EDU Center",
+    "company_website": "https://itbridge-services.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/andrijana-micunovic",
+    "company_linkedin_url": "https://www.linkedin.com/company/it-bridge-edu-center/",
+    "founder_name": "Andrijana Micunovic",
+    "founder_score": 8,
+    "product_score": 7,
+    "market_opportunity_score": 5,
     "overall_weighted_score": 6.55
   },
   {
@@ -858,6 +1078,17 @@
     "overall_weighted_score": 6.55
   },
   {
+    "company_name": "Trinigence",
+    "company_website": "https://trinigence.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/mladenovic-petar",
+    "company_linkedin_url": "https://www.linkedin.com/company/trinigence/",
+    "founder_name": "Petar Mladenovic",
+    "founder_score": 8,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.55
+  },
+  {
     "company_name": "Institute Beautiful Minds",
     "company_website": "https://beautifulminds.rs",
     "person_linkedin_url": "https://www.linkedin.com/in/david-ramadani-49067a248",
@@ -866,6 +1097,17 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
+    "overall_weighted_score": 6.55
+  },
+  {
+    "company_name": "Rentyx AI",
+    "company_website": "https://rentyxai.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/timofei-korznikovvv",
+    "company_linkedin_url": "https://www.linkedin.com/company/rentyx-ai/",
+    "founder_name": "Timofei Korznikov",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 6,
     "overall_weighted_score": 6.55
   },
   {
@@ -888,6 +1130,17 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
+    "overall_weighted_score": 6.55
+  },
+  {
+    "company_name": "AI Academy",
+    "company_website": "https://ai-academy.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/mirkovic-luka",
+    "company_linkedin_url": "https://www.linkedin.com/company/110671341/",
+    "founder_name": "Luka Mirkovic",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 6,
     "overall_weighted_score": 6.55
   },
   {
@@ -1023,11 +1276,33 @@
     "overall_weighted_score": 6.449999999999999
   },
   {
+    "company_name": "Auto Nation doo",
+    "company_website": "https://autonation.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/dristovski",
+    "company_linkedin_url": "https://www.linkedin.com/company/auto-nation-doo/",
+    "founder_name": "Dimitrije Ristovski",
+    "founder_score": 9,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 6.449999999999999
+  },
+  {
     "company_name": "MFH Labs",
     "company_website": "https://minuteoffootballhistory.com",
     "person_linkedin_url": "https://www.linkedin.com/in/ninamiljkovic",
     "company_linkedin_url": "https://www.linkedin.com/company/mfh-labs/",
     "founder_name": "Nina Miljković",
+    "founder_score": 8,
+    "product_score": 6,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.449999999999999
+  },
+  {
+    "company_name": "EVERYDAY TECHNOLOGY",
+    "company_website": "https://everyday.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/milos-stojicic-9a6308182",
+    "company_linkedin_url": "https://www.linkedin.com/company/everyday-technology/",
+    "founder_name": "Milos Stojicic",
     "founder_score": 8,
     "product_score": 6,
     "market_opportunity_score": 5,
@@ -1067,6 +1342,28 @@
     "overall_weighted_score": 6.300000000000001
   },
   {
+    "company_name": "Talis",
+    "company_website": "https://talishr.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/miloš-zajkesković",
+    "company_linkedin_url": "https://www.linkedin.com/company/talishr/",
+    "founder_name": "Miloš",
+    "founder_score": 6,
+    "product_score": 9,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 6.300000000000001
+  },
+  {
+    "company_name": "Lawcrative",
+    "company_website": "https://lawcrative.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/nemanjasamac",
+    "company_linkedin_url": "https://www.linkedin.com/company/lawcrative/",
+    "founder_name": "Nemanja Samac",
+    "founder_score": 7,
+    "product_score": 9,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.300000000000001
+  },
+  {
     "company_name": "NJUPPA",
     "company_website": "https://njuppa.com",
     "person_linkedin_url": "https://www.linkedin.com/in/trbovicnemanja",
@@ -1100,6 +1397,28 @@
     "overall_weighted_score": 6.2
   },
   {
+    "company_name": "QuickServeAI",
+    "company_website": "https://quickserveai.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/nemanja-velickovic-ai-consultant-with-team-of-engineers",
+    "company_linkedin_url": "https://www.linkedin.com/company/103572849/",
+    "founder_name": "Nemanja Velickovic",
+    "founder_score": 5,
+    "product_score": 8,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 6.2
+  },
+  {
+    "company_name": "Veerny",
+    "company_website": "https://veerny.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/uros-tomic-0b215918",
+    "company_linkedin_url": "https://www.linkedin.com/company/veerny/",
+    "founder_name": "Uros Tomic",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.2
+  },
+  {
     "company_name": "Benehab",
     "company_website": "https://benehab.com",
     "person_linkedin_url": "https://www.linkedin.com/in/rodiongorin",
@@ -1108,6 +1427,28 @@
     "founder_score": 6,
     "product_score": 8,
     "market_opportunity_score": 6,
+    "overall_weighted_score": 6.2
+  },
+  {
+    "company_name": "Venčaj.me",
+    "company_website": "https://vencaj.me",
+    "person_linkedin_url": "https://www.linkedin.com/in/petar-mijović-01a94413b",
+    "company_linkedin_url": "https://www.linkedin.com/company/ven%c4%8daj-me/",
+    "founder_name": "Petar Mijović",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.2
+  },
+  {
+    "company_name": "Tribune",
+    "company_website": "https://tribune.cloud",
+    "person_linkedin_url": "https://www.linkedin.com/in/eugene-sugrobov",
+    "company_linkedin_url": "https://www.linkedin.com/company/tribunecloud/",
+    "founder_name": "Eugene Sugrobov",
+    "founder_score": 7,
+    "product_score": 8,
+    "market_opportunity_score": 5,
     "overall_weighted_score": 6.2
   },
   {
@@ -1166,11 +1507,33 @@
     "overall_weighted_score": 6.2
   },
   {
+    "company_name": "Prometix DOO",
+    "company_website": "https://companywall.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/ralevuk",
+    "company_linkedin_url": "https://www.linkedin.com/company/108774451/",
+    "founder_name": "Radovan Vukovic",
+    "founder_score": 8,
+    "product_score": 8,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 6.2
+  },
+  {
     "company_name": "PK ProFarm",
     "company_website": "https://ibsonline.com.pk",
     "person_linkedin_url": "https://www.linkedin.com/in/predragklepic",
     "company_linkedin_url": "https://ec.linkedin.com/company/profarm-pakistan-pvt-ltd",
     "founder_name": "Predrag Klepić",
+    "founder_score": 8,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 6.1000000000000005
+  },
+  {
+    "company_name": "Aquila Heliaca d.o.o.",
+    "company_website": "https://aquilacompany.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/bojan-plavsic-8157a9217",
+    "company_linkedin_url": "https://www.linkedin.com/company/aquilaheliaca/",
+    "founder_name": "Bojan Plavsic",
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 4,
@@ -1196,6 +1559,17 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 6,
+    "overall_weighted_score": 6.1000000000000005
+  },
+  {
+    "company_name": "Alpha Technologies",
+    "company_website": "https://alpha.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/pericanikolic",
+    "company_linkedin_url": "https://www.linkedin.com/company/alpha-technologies/",
+    "founder_name": "Perica Nikolic",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 5,
     "overall_weighted_score": 6.1000000000000005
   },
   {
@@ -1265,6 +1639,17 @@
     "overall_weighted_score": 6.1000000000000005
   },
   {
+    "company_name": "Chimp3",
+    "company_website": "https://chimp3.io",
+    "person_linkedin_url": "https://www.linkedin.com/in/milanchimp3",
+    "company_linkedin_url": "https://www.linkedin.com/company/chimp3/",
+    "founder_name": "Milan Radulovic",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.1000000000000005
+  },
+  {
     "company_name": "GYPLAR",
     "company_website": "https://gyplar.com",
     "person_linkedin_url": "https://www.linkedin.com/in/antonshmatov",
@@ -1281,6 +1666,28 @@
     "person_linkedin_url": "https://www.linkedin.com/in/nduncic",
     "company_linkedin_url": "https://www.linkedin.com/company/ergo-software-solutions/",
     "founder_name": "Nikola",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.1000000000000005
+  },
+  {
+    "company_name": "OmniSigma",
+    "company_website": "https://omnisigma.co",
+    "person_linkedin_url": "https://www.linkedin.com/in/sasa-bogdanovic-065a131b8",
+    "company_linkedin_url": "https://www.linkedin.com/company/omnisigma/",
+    "founder_name": "Sasa Bogdanovic",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6.1000000000000005
+  },
+  {
+    "company_name": "Mindorah",
+    "company_website": "https://mindorah.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/ariyan-wasi-86328a165",
+    "company_linkedin_url": "https://www.linkedin.com/company/mindorah/",
+    "founder_name": "Ariyan Wasi",
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
@@ -1408,6 +1815,17 @@
     "overall_weighted_score": 5.9
   },
   {
+    "company_name": "Atelje Martinović",
+    "company_website": "https://ateljemartinovic.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/uroš-martinović-31949957",
+    "company_linkedin_url": "https://www.linkedin.com/company/atelje-martinovi%c4%87/",
+    "founder_name": "Uroš Martinović",
+    "founder_score": 8,
+    "product_score": 5,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.9
+  },
+  {
     "company_name": "Gelato Del Mar ice cream LLC",
     "company_website": "https://ansgelato.com",
     "person_linkedin_url": "https://www.linkedin.com/in/marko-nedeljkovic-43423a143",
@@ -1430,11 +1848,33 @@
     "overall_weighted_score": 5.9
   },
   {
+    "company_name": "PromoLens - AI for eCommerce Promotions",
+    "company_website": "https://promolens.ai",
+    "person_linkedin_url": "https://www.linkedin.com/in/raisa-khamidullina-a6172611",
+    "company_linkedin_url": "https://www.linkedin.com/company/promolens-ai/",
+    "founder_name": "Raisa Khamidullina",
+    "founder_score": 5,
+    "product_score": 9,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.8500000000000005
+  },
+  {
     "company_name": "PeopleForce",
     "company_website": "https://peopleforce.io",
     "person_linkedin_url": "https://www.linkedin.com/in/nataša-vasić-konsultallika",
     "company_linkedin_url": "https://www.linkedin.com/company/peopleforceapp/",
     "founder_name": "Nataša Vasić",
+    "founder_score": 5,
+    "product_score": 9,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.8500000000000005
+  },
+  {
+    "company_name": "Refine",
+    "company_website": "https://refine-skills.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/ristic-stefan",
+    "company_linkedin_url": "https://www.linkedin.com/company/refine-skills/",
+    "founder_name": "Stefan Ristic",
     "founder_score": 5,
     "product_score": 9,
     "market_opportunity_score": 6,
@@ -1496,6 +1936,17 @@
     "overall_weighted_score": 5.75
   },
   {
+    "company_name": "AI-Media",
+    "company_website": "https://ai-media.tv",
+    "person_linkedin_url": "https://www.linkedin.com/in/branislava-lovre",
+    "company_linkedin_url": "https://www.linkedin.com/company/ai-media-tv/",
+    "founder_name": "Branislava Lovre",
+    "founder_score": 4,
+    "product_score": 8,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 5.75
+  },
+  {
     "company_name": "AIManager360",
     "company_website": "https://aimanager360.com",
     "person_linkedin_url": "https://www.linkedin.com/in/cyril-z",
@@ -1504,6 +1955,39 @@
     "founder_score": 4,
     "product_score": 8,
     "market_opportunity_score": 7,
+    "overall_weighted_score": 5.75
+  },
+  {
+    "company_name": "Recrewty",
+    "company_website": "https://recrewty.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/perovicmitar",
+    "company_linkedin_url": "https://www.linkedin.com/company/recrewty/",
+    "founder_name": "Mitar Perovic",
+    "founder_score": 5,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.75
+  },
+  {
+    "company_name": "Talis",
+    "company_website": "https://talishr.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/milan-djokic-",
+    "company_linkedin_url": "https://www.linkedin.com/company/talishr/",
+    "founder_name": "Milan Đokić",
+    "founder_score": 5,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.75
+  },
+  {
+    "company_name": "NavBlind",
+    "company_website": "https://navblind.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/slobodanisakovic",
+    "company_linkedin_url": "https://www.linkedin.com/company/101042570/",
+    "founder_name": "Slobodan Isaković",
+    "founder_score": 6,
+    "product_score": 8,
+    "market_opportunity_score": 5,
     "overall_weighted_score": 5.75
   },
   {
@@ -1537,6 +2021,17 @@
     "founder_score": 6,
     "product_score": 8,
     "market_opportunity_score": 5,
+    "overall_weighted_score": 5.75
+  },
+  {
+    "company_name": "Reserve Wealth Digital",
+    "company_website": "https://stackwealth.in",
+    "person_linkedin_url": "https://www.linkedin.com/in/martin-jovanovic-3a682926a",
+    "company_linkedin_url": "https://br.linkedin.com/company/stackwealthhq",
+    "founder_name": "Martin Jovanovic",
+    "founder_score": 5,
+    "product_score": 8,
+    "market_opportunity_score": 6,
     "overall_weighted_score": 5.75
   },
   {
@@ -1589,6 +2084,17 @@
     "person_linkedin_url": "https://www.linkedin.com/in/nemanja-kostadinović-215b94275",
     "company_linkedin_url": "https://www.linkedin.com/company/shoptimax/",
     "founder_name": "Nemanja Kostadinović",
+    "founder_score": 6,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 5.75
+  },
+  {
+    "company_name": "HealOutSource",
+    "company_website": "https://healoutsource.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/natalia-meretskaia-8b0689314",
+    "company_linkedin_url": "https://www.linkedin.com/company/healoutsource/",
+    "founder_name": "Natalia Meretskaia",
     "founder_score": 6,
     "product_score": 8,
     "market_opportunity_score": 5,
@@ -1683,6 +2189,17 @@
     "overall_weighted_score": 5.65
   },
   {
+    "company_name": "Fullstackista",
+    "company_website": "https://fullstackista.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/ognjenmedic",
+    "company_linkedin_url": "https://www.linkedin.com/company/fullstackista/",
+    "founder_name": "Ognjen Medic",
+    "founder_score": 6,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 5.65
+  },
+  {
     "company_name": "Via Ventura 🌱",
     "company_website": "https://via-ventura.com",
     "person_linkedin_url": "https://www.linkedin.com/in/filip-djokic",
@@ -1727,6 +2244,17 @@
     "overall_weighted_score": 5.65
   },
   {
+    "company_name": "Tribal Camping",
+    "company_website": "https://tribalcamping.co",
+    "person_linkedin_url": "https://www.linkedin.com/in/aleksandar-spremo",
+    "company_linkedin_url": "https://www.linkedin.com/company/tribalcamping/",
+    "founder_name": "Aleksandar Spremo",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.65
+  },
+  {
     "company_name": "DevioIT",
     "company_website": "https://deviodigital.com",
     "person_linkedin_url": "https://www.linkedin.com/in/sasa-popadic",
@@ -1749,11 +2277,44 @@
     "overall_weighted_score": 5.65
   },
   {
+    "company_name": "GRK Media",
+    "company_website": "https://be-solocal.fr",
+    "person_linkedin_url": "https://www.linkedin.com/in/mihajlo-grkovic-974156391",
+    "company_linkedin_url": "https://www.linkedin.com/company/grk-media",
+    "founder_name": "Mihajlo Grkovic",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.65
+  },
+  {
+    "company_name": "MyTails",
+    "company_website": "https://mytails.eu",
+    "person_linkedin_url": "https://www.linkedin.com/in/natalia-grishchenko-9541b2329",
+    "company_linkedin_url": "https://www.linkedin.com/company/mytails/",
+    "founder_name": "Natalia Grishchenko",
+    "founder_score": 7,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.65
+  },
+  {
     "company_name": "farmit",
     "company_website": "https://farmit.rs",
     "person_linkedin_url": "https://www.linkedin.com/in/sava-pavlovic-b41759200",
     "company_linkedin_url": "https://www.linkedin.com/company/farmitsrb/",
     "founder_name": "Sava Pavlovic",
+    "founder_score": 6,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 5.65
+  },
+  {
+    "company_name": "Bindigo",
+    "company_website": "https://pet-hub.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/uroš-grujičić-5988b2237",
+    "company_linkedin_url": "https://www.linkedin.com/company/bindigo/",
+    "founder_name": "Uroš Grujičić",
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
@@ -1859,6 +2420,28 @@
     "overall_weighted_score": 5.550000000000001
   },
   {
+    "company_name": "BioCleaning",
+    "company_website": "https://biocleaning.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/aleksandar-jovanović-449b4115a",
+    "company_linkedin_url": "https://www.linkedin.com/company/biocleaningrs/",
+    "founder_name": "Aleksandar Jovanović",
+    "founder_score": 7,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.550000000000001
+  },
+  {
+    "company_name": "SUGGEST EAT",
+    "company_website": "https://suggesteat.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/nikola-trajkovic-39834067",
+    "company_linkedin_url": "https://www.linkedin.com/company/suggest-eat/",
+    "founder_name": "Nikola Trajkovic",
+    "founder_score": 7,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.550000000000001
+  },
+  {
     "company_name": "Tricoman Studios",
     "company_website": "https://tricomanstudios.com",
     "person_linkedin_url": "https://www.linkedin.com/in/luka-filipović-b69265145",
@@ -1867,6 +2450,17 @@
     "founder_score": 5,
     "product_score": 6,
     "market_opportunity_score": 6,
+    "overall_weighted_score": 5.550000000000001
+  },
+  {
+    "company_name": "ZnamZnaš",
+    "company_website": "https://znamznas.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/nikolicdusan",
+    "company_linkedin_url": "https://www.linkedin.com/company/znamznas/",
+    "founder_name": "Dušan Nikolić",
+    "founder_score": 6,
+    "product_score": 6,
+    "market_opportunity_score": 5,
     "overall_weighted_score": 5.550000000000001
   },
   {
@@ -1925,6 +2519,28 @@
     "overall_weighted_score": 5.550000000000001
   },
   {
+    "company_name": "Bindigo",
+    "company_website": "https://pet-hub.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/urosg",
+    "company_linkedin_url": "https://www.linkedin.com/company/bindigo/",
+    "founder_name": "Uroš Grujičić",
+    "founder_score": 6,
+    "product_score": 6,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 5.550000000000001
+  },
+  {
+    "company_name": "Qr Latte",
+    "company_website": "https://qrlatte.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/luka-dordevic",
+    "company_linkedin_url": "https://www.linkedin.com/company/qr-latte/",
+    "founder_name": "Luka Dordevic",
+    "founder_score": 7,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.550000000000001
+  },
+  {
     "company_name": "Detachless",
     "company_website": "https://detachless.com",
     "person_linkedin_url": "https://www.linkedin.com/in/uroš-raković-456835220",
@@ -1958,6 +2574,17 @@
     "overall_weighted_score": 5.45
   },
   {
+    "company_name": "I:BICA (Inspiring: Broad Interdisciplinary Cultural Alliances)",
+    "company_website": "https://ibica.online",
+    "person_linkedin_url": "https://www.linkedin.com/in/lidija-ristić-916a39212",
+    "company_linkedin_url": "https://www.linkedin.com/company/i-bica-inspiring-broad-interdisciplinary-cultural-alliances/",
+    "founder_name": "Lidija Ristić",
+    "founder_score": 7,
+    "product_score": 5,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.45
+  },
+  {
     "company_name": "Creative Hub",
     "company_website": "https://thecreativehubonline.com",
     "person_linkedin_url": "https://www.linkedin.com/in/ivan-kovač-920a0a2b9",
@@ -1978,6 +2605,17 @@
     "product_score": 5,
     "market_opportunity_score": 4,
     "overall_weighted_score": 5.45
+  },
+  {
+    "company_name": "FRM Labz",
+    "company_website": "https://fuel.me",
+    "person_linkedin_url": "https://www.linkedin.com/in/nikola-milovic",
+    "company_linkedin_url": "https://www.linkedin.com/company/69010887/",
+    "founder_name": "Nikola Milović",
+    "founder_score": 4,
+    "product_score": 9,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.4
   },
   {
     "company_name": "BookMoly",
@@ -2134,6 +2772,17 @@
     "overall_weighted_score": 5.3
   },
   {
+    "company_name": "Webips Digital",
+    "company_website": "https://netlify.app",
+    "person_linkedin_url": "https://www.linkedin.com/in/ilija-popadic-27a4a72b3",
+    "company_linkedin_url": "https://www.linkedin.com/company/webips-digital/",
+    "founder_name": "Ilija Popadic",
+    "founder_score": 6,
+    "product_score": 8,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 5.3
+  },
+  {
     "company_name": "eWave",
     "company_website": "https://ewave.gg",
     "person_linkedin_url": "https://www.linkedin.com/in/marko-dulic-181065270",
@@ -2156,6 +2805,17 @@
     "overall_weighted_score": 5.3
   },
   {
+    "company_name": "NNAI",
+    "company_website": "https://framer.ai",
+    "person_linkedin_url": "https://www.linkedin.com/in/nemanja-adamovic-a34097380",
+    "company_linkedin_url": "https://www.linkedin.com/company/nnaiautomation/",
+    "founder_name": "Nemanja Adamovic",
+    "founder_score": 4,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.3
+  },
+  {
     "company_name": "Rumora",
     "company_website": "https://rumora.ai",
     "person_linkedin_url": "https://www.linkedin.com/in/radejoksimovic",
@@ -2175,6 +2835,17 @@
     "founder_score": 3,
     "product_score": 7,
     "market_opportunity_score": 7,
+    "overall_weighted_score": 5.2
+  },
+  {
+    "company_name": "Managesio",
+    "company_website": "https://manages.io",
+    "person_linkedin_url": "https://www.linkedin.com/in/zstevan",
+    "company_linkedin_url": "https://www.linkedin.com/company/managesio/",
+    "founder_name": "Stevan Zivkovic",
+    "founder_score": 6,
+    "product_score": 7,
+    "market_opportunity_score": 4,
     "overall_weighted_score": 5.2
   },
   {
@@ -2263,6 +2934,28 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
+    "overall_weighted_score": 5.2
+  },
+  {
+    "company_name": "Moony.jpg",
+    "company_website": "https://roxom.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/zorana-stojakovic-444185309",
+    "company_linkedin_url": "https://sc.linkedin.com/company/roxom",
+    "founder_name": "Zorana Stojakovic",
+    "founder_score": 3,
+    "product_score": 7,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 5.2
+  },
+  {
+    "company_name": "BlahBlah",
+    "company_website": "https://blahblah.world",
+    "person_linkedin_url": "https://www.linkedin.com/in/vuk-saulic-ai-ethics",
+    "company_linkedin_url": "https://www.linkedin.com/company/99985181/",
+    "founder_name": "Vuk Saulic",
+    "founder_score": 4,
+    "product_score": 7,
+    "market_opportunity_score": 6,
     "overall_weighted_score": 5.2
   },
   {
@@ -2442,6 +3135,17 @@
     "overall_weighted_score": 5.1
   },
   {
+    "company_name": "Agentcy",
+    "company_website": "https://agentcy.xyz",
+    "person_linkedin_url": "https://www.linkedin.com/in/vlad-kooklev",
+    "company_linkedin_url": "https://www.linkedin.com/company/agentcyxyz/",
+    "founder_name": "Vlad Kuklev",
+    "founder_score": 4,
+    "product_score": 6,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.1
+  },
+  {
     "company_name": "Beesource Group",
     "company_website": "https://moravacem.rs",
     "person_linkedin_url": "https://www.linkedin.com/in/milena-jacimovic05091988",
@@ -2494,6 +3198,39 @@
     "founder_score": 4,
     "product_score": 6,
     "market_opportunity_score": 6,
+    "overall_weighted_score": 5.1
+  },
+  {
+    "company_name": "Espresso Guide",
+    "company_website": "https://espressoguide.app",
+    "person_linkedin_url": "https://www.linkedin.com/in/n-stojanovic",
+    "company_linkedin_url": "https://www.linkedin.com/company/espresso-guide/",
+    "founder_name": "Nemanja Stojanovic",
+    "founder_score": 5,
+    "product_score": 6,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 5.1
+  },
+  {
+    "company_name": "Mairloo",
+    "company_website": "https://mairloo.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/milanjevtovic",
+    "company_linkedin_url": "https://www.linkedin.com/company/mairloo/",
+    "founder_name": "Milan Jevtovic",
+    "founder_score": 5,
+    "product_score": 6,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 5.1
+  },
+  {
+    "company_name": "Nekretnina od Srca",
+    "company_website": "https://nekretninaodsrca.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/nikolamflow",
+    "company_linkedin_url": "https://www.linkedin.com/company/nekretnina-od-srca/",
+    "founder_name": "Nikola Milovanovic",
+    "founder_score": 6,
+    "product_score": 6,
+    "market_opportunity_score": 4,
     "overall_weighted_score": 5.1
   },
   {
@@ -2607,6 +3344,17 @@
     "overall_weighted_score": 4.85
   },
   {
+    "company_name": "UR Brza hrana \"Kod Vuka\"",
+    "company_website": "https://wolt.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/daliborisakovic",
+    "company_linkedin_url": "https://www.linkedin.com/company/107610171/",
+    "founder_name": "Dalibor Isaković",
+    "founder_score": 2,
+    "product_score": 8,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 4.85
+  },
+  {
     "company_name": "Omagine Labs",
     "company_website": "https://omaginelabs.com",
     "person_linkedin_url": "https://www.linkedin.com/in/straja",
@@ -2656,6 +3404,17 @@
     "person_linkedin_url": "https://www.linkedin.com/in/ekaterina-prischepova",
     "company_linkedin_url": "https://www.linkedin.com/company/pumproom-tech/",
     "founder_name": "Ekaterina Prischepova",
+    "founder_score": 4,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 4.85
+  },
+  {
+    "company_name": "EstiWiz",
+    "company_website": "https://webflow.io",
+    "person_linkedin_url": "https://www.linkedin.com/in/andrijana-jakovljevic",
+    "company_linkedin_url": "https://www.linkedin.com/company/estiwiz/",
+    "founder_name": "Andrijana Jakovljevic",
     "founder_score": 4,
     "product_score": 8,
     "market_opportunity_score": 5,
@@ -2794,6 +3553,17 @@
     "overall_weighted_score": 4.75
   },
   {
+    "company_name": "Multi Mode d.o.o.",
+    "company_website": "https://se.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/miloš-dobrić-3b146135",
+    "company_linkedin_url": "https://www.linkedin.com/company/schneider-electric",
+    "founder_name": "Miloš Dobrić",
+    "founder_score": 2,
+    "product_score": 7,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 4.75
+  },
+  {
     "company_name": "Giftić Pokloni",
     "company_website": "https://gifticbeograd.com",
     "person_linkedin_url": "https://www.linkedin.com/in/rodoljub-davidović-marketing-manager",
@@ -2871,6 +3641,17 @@
     "overall_weighted_score": 4.55
   },
   {
+    "company_name": "Lucky Soul Inc",
+    "company_website": "https://luckysoulusa.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/ivana-jakovljević-1335503a7",
+    "company_linkedin_url": "https://www.linkedin.com/company/luckysoul/",
+    "founder_name": "Ivana Jakovljević",
+    "founder_score": 5,
+    "product_score": 5,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 4.55
+  },
+  {
     "company_name": "Deneko Game Studio",
     "company_website": "https://deneko.games",
     "person_linkedin_url": "https://www.linkedin.com/in/deneko",
@@ -2934,6 +3715,28 @@
     "founder_score": 3,
     "product_score": 8,
     "market_opportunity_score": 5,
+    "overall_weighted_score": 4.4
+  },
+  {
+    "company_name": "AGRIMETRIX DOO",
+    "company_website": "https://companywall.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/goran-radovanovic-2202b526b",
+    "company_linkedin_url": "https://www.linkedin.com/company/102510449/",
+    "founder_name": "Goran Radovanovic",
+    "founder_score": 2,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 4.4
+  },
+  {
+    "company_name": "Own Company",
+    "company_website": "https://owndata.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/ekaterina-u-2325b8389",
+    "company_linkedin_url": "https://www.linkedin.com/company/owndata/",
+    "founder_name": "Ekaterina",
+    "founder_score": 1,
+    "product_score": 8,
+    "market_opportunity_score": 7,
     "overall_weighted_score": 4.4
   },
   {
@@ -3003,11 +3806,33 @@
     "overall_weighted_score": 4.3
   },
   {
+    "company_name": "Liberté Events Group",
+    "company_website": "https://liberte-events.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/lazar-potrebić-2b72b617b",
+    "company_linkedin_url": "https://www.linkedin.com/company/liberte-events-group/",
+    "founder_name": "Lazar Potrebić",
+    "founder_score": 3,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 4.3
+  },
+  {
     "company_name": "Ognis",
     "company_website": "https://barkod.hr",
     "person_linkedin_url": "https://www.linkedin.com/in/aleksandr-znak",
     "company_linkedin_url": "https://hr.linkedin.com/company/barkodsustavi",
     "founder_name": "Aleksandr Znak",
+    "founder_score": 4,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 4.3
+  },
+  {
+    "company_name": "B Sharp Technologies",
+    "company_website": "https://bsharp.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/stefan-ristic-0a0292246",
+    "company_linkedin_url": "https://www.linkedin.com/company/b-sharp-technologies/",
+    "founder_name": "Stefan Ristic",
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 4,
@@ -3025,6 +3850,28 @@
     "overall_weighted_score": 4.3
   },
   {
+    "company_name": "Snapster",
+    "company_website": "https://t.me",
+    "person_linkedin_url": "https://www.linkedin.com/in/efim-shvarev",
+    "company_linkedin_url": "https://www.linkedin.com/company/snapster-bot/",
+    "founder_name": "Efim Shvarev",
+    "founder_score": 3,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 4.3
+  },
+  {
+    "company_name": "NCR Corporation",
+    "company_website": "https://ncr.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/mijodrag-stankovic-7883a3235",
+    "company_linkedin_url": "https://www.linkedin.com/company/ncr-corporation/",
+    "founder_name": "Mijodrag Stankovic",
+    "founder_score": 2,
+    "product_score": 7,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 4.3
+  },
+  {
     "company_name": "Weiss Technik Nederland",
     "company_website": "https://weiss-technik.nl",
     "person_linkedin_url": "https://www.linkedin.com/in/andrej-jevric-85947038a",
@@ -3036,11 +3883,33 @@
     "overall_weighted_score": 4.3
   },
   {
+    "company_name": "Marina Int",
+    "company_website": "https://marinaint.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/vuk-bilić-647462335",
+    "company_linkedin_url": "https://www.linkedin.com/company/marina-int/",
+    "founder_name": "Vuk Bilić",
+    "founder_score": 3,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 4.3
+  },
+  {
     "company_name": "The Influence Club",
     "company_website": "https://linktr.ee",
     "person_linkedin_url": "https://www.linkedin.com/in/nevena-djokic-35a2a9176",
     "company_linkedin_url": "https://www.linkedin.com/company/the-influence-club/",
     "founder_name": "Nevena Djokic",
+    "founder_score": 4,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 4.3
+  },
+  {
+    "company_name": "VosGaj",
+    "company_website": "https://companywall.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/vukasin-vostic-bb133a343",
+    "company_linkedin_url": "https://www.linkedin.com/company/108598212/",
+    "founder_name": "Vukasin Vostic",
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 4,
@@ -3063,6 +3932,17 @@
     "person_linkedin_url": "https://www.linkedin.com/in/jovana-savic-markovic",
     "company_linkedin_url": "https://www.linkedin.com/company/90861648/",
     "founder_name": "Jovana Markovic",
+    "founder_score": 4,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 4.2
+  },
+  {
+    "company_name": "Work Better Labs",
+    "company_website": "https://workbetterclub.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/maja-drnjevic",
+    "company_linkedin_url": "https://www.linkedin.com/company/workbetterlabs/",
+    "founder_name": "Maja Drnjevic",
     "founder_score": 4,
     "product_score": 6,
     "market_opportunity_score": 4,
@@ -3146,6 +4026,28 @@
     "overall_weighted_score": 4.2
   },
   {
+    "company_name": "MV Industries",
+    "company_website": "https://mvindustries.org",
+    "person_linkedin_url": "https://www.linkedin.com/in/igor-mrzic-a202732b0",
+    "company_linkedin_url": "https://www.linkedin.com/company/mvind/",
+    "founder_name": "Igor Mrzic",
+    "founder_score": 4,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 4.2
+  },
+  {
+    "company_name": "Elephant Store @ Telegram",
+    "company_website": "https://t.me",
+    "person_linkedin_url": "https://www.linkedin.com/in/ayukaev",
+    "company_linkedin_url": "https://www.linkedin.com/company/elephantstore/",
+    "founder_name": "Vlad Ayukaev",
+    "founder_score": 4,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 4.2
+  },
+  {
     "company_name": "Longshot Studio",
     "company_website": "https://longshotstudio.com",
     "person_linkedin_url": "https://www.linkedin.com/in/vidan-dugalić-32804827b",
@@ -3155,6 +4057,17 @@
     "product_score": 6,
     "market_opportunity_score": 5,
     "overall_weighted_score": 4.2
+  },
+  {
+    "company_name": "Blaind",
+    "company_website": "https://spotify.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/miloš-mladenović-2077042b1",
+    "company_linkedin_url": "https://www.linkedin.com/company/107962852/",
+    "founder_name": "Miloš Mladenović",
+    "founder_score": 2,
+    "product_score": 1,
+    "market_opportunity_score": 7,
+    "overall_weighted_score": 4.1499999999999995
   },
   {
     "company_name": "Jokey Sensin",
@@ -3300,6 +4213,17 @@
     "overall_weighted_score": 3.95
   },
   {
+    "company_name": "Imperium Technologies, Inc",
+    "company_website": "https://imperiumzone.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/pavle-anðelković-1614b1373",
+    "company_linkedin_url": "https://www.linkedin.com/company/imperium-technologies-llc/",
+    "founder_name": "Pavle Anðelković",
+    "founder_score": 2,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 3.95
+  },
+  {
     "company_name": "TKT PRO",
     "company_website": "https://companywall.rs",
     "person_linkedin_url": "https://www.linkedin.com/in/filip-vejnovic-415aba187",
@@ -3311,6 +4235,28 @@
     "overall_weighted_score": 3.95
   },
   {
+    "company_name": "GlowFlow",
+    "company_website": "https://instagram.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/jovan-popović-b32a99240",
+    "company_linkedin_url": "https://www.linkedin.com/company/glowflowsrbija/",
+    "founder_name": "Jovan Popović",
+    "founder_score": 3,
+    "product_score": 8,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 3.95
+  },
+  {
+    "company_name": "Self Employed",
+    "company_website": "https://chasedimond.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/nemanja-bubanj-93347b219",
+    "company_linkedin_url": "https://www.linkedin.com/company/self-employed122/",
+    "founder_name": "Nemanja Bubanj",
+    "founder_score": 2,
+    "product_score": 8,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 3.95
+  },
+  {
     "company_name": "DataStream",
     "company_website": "https://calendly.com",
     "person_linkedin_url": "https://www.linkedin.com/in/milossusa",
@@ -3319,6 +4265,17 @@
     "founder_score": 2,
     "product_score": 8,
     "market_opportunity_score": 5,
+    "overall_weighted_score": 3.95
+  },
+  {
+    "company_name": "Valero doo, Vrbas",
+    "company_website": "https://valero.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/petar-karanov-a2726175",
+    "company_linkedin_url": "https://www.linkedin.com/company/111152169/",
+    "founder_name": "Petar Karanov",
+    "founder_score": 4,
+    "product_score": 8,
+    "market_opportunity_score": 3,
     "overall_weighted_score": 3.95
   },
   {
@@ -3443,6 +4400,17 @@
     "overall_weighted_score": 3.85
   },
   {
+    "company_name": "VukConnect",
+    "company_website": "https://netlify.app",
+    "person_linkedin_url": "https://www.linkedin.com/in/vukasin-kitanovic-4a0385255",
+    "company_linkedin_url": "https://www.linkedin.com/company/vukconnect/",
+    "founder_name": "Vukasin Kitanovic",
+    "founder_score": 2,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 3.85
+  },
+  {
     "company_name": "Letcape",
     "company_website": "https://letcape.com",
     "person_linkedin_url": "https://www.linkedin.com/in/naithcape",
@@ -3509,6 +4477,17 @@
     "overall_weighted_score": 3.7500000000000004
   },
   {
+    "company_name": "PocketPsy",
+    "company_website": "https://azfem.az",
+    "person_linkedin_url": "https://www.linkedin.com/in/gkuravkin",
+    "company_linkedin_url": "https://www.linkedin.com/company/108180721/",
+    "founder_name": "George Kuravkin",
+    "founder_score": 3,
+    "product_score": 6,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 3.7500000000000004
+  },
+  {
     "company_name": "SAFEzone doo",
     "company_website": "https://ductel.com",
     "person_linkedin_url": "https://www.linkedin.com/in/andrea-andric-689264137",
@@ -3550,6 +4529,17 @@
     "founder_score": 4,
     "product_score": 5,
     "market_opportunity_score": 3,
+    "overall_weighted_score": 3.6500000000000004
+  },
+  {
+    "company_name": "Bliže Community",
+    "company_website": "https://notion.so",
+    "person_linkedin_url": "https://www.linkedin.com/in/evgeniia-ivanova",
+    "company_linkedin_url": "https://www.linkedin.com/company/blizecommunity/",
+    "founder_name": "Evgeniia Ivanova",
+    "founder_score": 3,
+    "product_score": 5,
+    "market_opportunity_score": 4,
     "overall_weighted_score": 3.6500000000000004
   },
   {
@@ -3630,6 +4620,17 @@
     "overall_weighted_score": 3.5
   },
   {
+    "company_name": "IGROW",
+    "company_website": "https://igrow.software",
+    "person_linkedin_url": "https://www.linkedin.com/in/ana-riđić-50050396",
+    "company_linkedin_url": "https://www.linkedin.com/company/107703239/",
+    "founder_name": "Ana Riđić",
+    "founder_score": 2,
+    "product_score": 8,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 3.5
+  },
+  {
     "company_name": "SIM-Promet",
     "company_website": "https://mtgcorp.com",
     "person_linkedin_url": "https://www.linkedin.com/in/slobodan-bajić-5889691a7",
@@ -3650,6 +4651,17 @@
     "product_score": 3,
     "market_opportunity_score": 3,
     "overall_weighted_score": 3.45
+  },
+  {
+    "company_name": "Controlbox.rs",
+    "company_website": "https://controlbox.eu",
+    "person_linkedin_url": "https://www.linkedin.com/in/dušan-bubalo-319804197",
+    "company_linkedin_url": "https://www.linkedin.com/company/107961392/",
+    "founder_name": "Dušan Bubalo",
+    "founder_score": 1,
+    "product_score": 7,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 3.4000000000000004
   },
   {
     "company_name": "CORTA d.o.o.",
@@ -3679,6 +4691,17 @@
     "person_linkedin_url": "https://www.linkedin.com/in/zorkadjurovic",
     "company_linkedin_url": "https://www.linkedin.com/company/kaymack-careers/",
     "founder_name": "Zorka Djurovic",
+    "founder_score": 3,
+    "product_score": 7,
+    "market_opportunity_score": 3,
+    "overall_weighted_score": 3.4000000000000004
+  },
+  {
+    "company_name": "The Gold Call Show",
+    "company_website": "https://thegoldcall.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/nikola-s-7a45a932a",
+    "company_linkedin_url": "https://www.linkedin.com/company/thegoldcallshow/",
+    "founder_name": "Nikola",
     "founder_score": 3,
     "product_score": 7,
     "market_opportunity_score": 3,
@@ -3715,6 +4738,17 @@
     "founder_score": 2,
     "product_score": 7,
     "market_opportunity_score": 4,
+    "overall_weighted_score": 3.4000000000000004
+  },
+  {
+    "company_name": "Quant Lambda · Independent Research Project",
+    "company_website": "https://rivian.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/alex-senkevich-990a09180",
+    "company_linkedin_url": "https://www.linkedin.com/company/737010/",
+    "founder_name": "Alex Senkevich",
+    "founder_score": 1,
+    "product_score": 7,
+    "market_opportunity_score": 5,
     "overall_weighted_score": 3.4000000000000004
   },
   {
@@ -3839,6 +4873,28 @@
     "overall_weighted_score": 3.2
   },
   {
+    "company_name": "IPMAgency",
+    "company_website": "https://yelp.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/aleksa-miljkovic-0a67a62b2",
+    "company_linkedin_url": "https://www.linkedin.com/company/102151913/",
+    "founder_name": "Aleksa Miljkovic",
+    "founder_score": 2,
+    "product_score": 5,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 3.2
+  },
+  {
+    "company_name": "Biro SL",
+    "company_website": "https://jason.com.sg",
+    "person_linkedin_url": "https://www.linkedin.com/in/smiljana-lemic-63b61418",
+    "company_linkedin_url": "https://cn.linkedin.com/company/jason-electronics-pte-ltd",
+    "founder_name": "Smiljana Lemic",
+    "founder_score": 1,
+    "product_score": 8,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 3.05
+  },
+  {
     "company_name": "ASTRA FABRIKA DOO",
     "company_website": "https://astrasocks.com",
     "person_linkedin_url": "https://www.linkedin.com/in/andrej-lenkov-41a470101",
@@ -3894,11 +4950,55 @@
     "overall_weighted_score": 2.95
   },
   {
+    "company_name": "AGRIMETRIX DOO",
+    "company_website": "https://companywall.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/slobodan-jocic-5222a7229",
+    "company_linkedin_url": "https://www.linkedin.com/company/102510449/",
+    "founder_name": "Slobodan Jocic",
+    "founder_score": 1,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 2.95
+  },
+  {
+    "company_name": "YXS Wealth",
+    "company_website": "https://markets.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/dr-ivana-milosev-180568288",
+    "company_linkedin_url": "https://www.linkedin.com/company/105414276/",
+    "founder_name": "Ivana Milosev",
+    "founder_score": 1,
+    "product_score": 7,
+    "market_opportunity_score": 4,
+    "overall_weighted_score": 2.95
+  },
+  {
+    "company_name": "Berda Fruit Co.,Ltd",
+    "company_website": "https://berdafruit.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/vberdic",
+    "company_linkedin_url": "https://www.linkedin.com/company/berda-fruit-co-ltd/",
+    "founder_name": "Veljko Berdic",
+    "founder_score": 2,
+    "product_score": 7,
+    "market_opportunity_score": 3,
+    "overall_weighted_score": 2.95
+  },
+  {
     "company_name": "Undecagon",
     "company_website": "https://mathopenref.com",
     "person_linkedin_url": "https://www.linkedin.com/in/vasilijesimic",
     "company_linkedin_url": "https://www.linkedin.com/company/102315225/",
     "founder_name": "Vasilije Simic",
+    "founder_score": 2,
+    "product_score": 6,
+    "market_opportunity_score": 3,
+    "overall_weighted_score": 2.85
+  },
+  {
+    "company_name": "BFC",
+    "company_website": "https://bfcflooring.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/ivan-vlajkovic-a7353025",
+    "company_linkedin_url": "https://ca.linkedin.com/company/bfc-flooring-design-center",
+    "founder_name": "Ivan Vlajkovic",
     "founder_score": 2,
     "product_score": 6,
     "market_opportunity_score": 3,
@@ -3936,6 +5036,17 @@
     "product_score": 1,
     "market_opportunity_score": 3,
     "overall_weighted_score": 2.8000000000000003
+  },
+  {
+    "company_name": "Novel CyberTech",
+    "company_website": "https://villagebooks.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/zoran-savic-b3780226",
+    "company_linkedin_url": "https://www.linkedin.com/company/cybertechjsc",
+    "founder_name": "Zoran Savic",
+    "founder_score": 2,
+    "product_score": 5,
+    "market_opportunity_score": 3,
+    "overall_weighted_score": 2.75
   },
   {
     "company_name": "Nerolabs",
@@ -3982,6 +5093,17 @@
     "overall_weighted_score": 2.65
   },
   {
+    "company_name": "Kremanac dizajn",
+    "company_website": "https://daibau.rs",
+    "person_linkedin_url": "https://www.linkedin.com/in/sofija-kremanac-14307a134",
+    "company_linkedin_url": "https://www.linkedin.com/company/86796810/",
+    "founder_name": "Sofija Kremanac",
+    "founder_score": 1,
+    "product_score": 7,
+    "market_opportunity_score": 3,
+    "overall_weighted_score": 2.5
+  },
+  {
     "company_name": "West Life d.o.o. Društvo za zastupanje u osiguranju",
     "company_website": "https://companywall.rs",
     "person_linkedin_url": "https://www.linkedin.com/in/nikolapejovicc",
@@ -4013,1303 +5135,5 @@
     "product_score": 4,
     "market_opportunity_score": 3,
     "overall_weighted_score": 2.2
-  },
-  {
-    "company_name": "ParKings",
-    "company_website": "https://figma.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/filip-dajic",
-    "company_linkedin_url": "https://www.linkedin.com/company/parkingzapp/",
-    "founder_name": "Filip Dajic",
-    "founder_score": 3,
-    "product_score": 9,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Dialog AI",
-    "company_website": "https://dialog.ltd",
-    "person_linkedin_url": "https://www.linkedin.com/in/kseniia-petrova-cpo",
-    "company_linkedin_url": "https://www.linkedin.com/company/dialog-ai-solutions/",
-    "founder_name": "Kseniia Petrova",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Aquila Heliaca d.o.o.",
-    "company_website": "https://aquilacompany.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/bojan-plavsic-8157a9217",
-    "company_linkedin_url": "https://www.linkedin.com/company/aquilaheliaca/",
-    "founder_name": "Bojan Plavsic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Managesio",
-    "company_website": "https://manages.io",
-    "person_linkedin_url": "https://www.linkedin.com/in/zstevan",
-    "company_linkedin_url": "https://www.linkedin.com/company/managesio/",
-    "founder_name": "Stevan Zivkovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "MeriMeri d.o.o.",
-    "company_website": "https://merimeri.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/ivan-lazic-0a5801ab",
-    "company_linkedin_url": "https://www.linkedin.com/company/merimeri-d-o-o/",
-    "founder_name": "Ivan Lazic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Labscorp",
-    "company_website": "https://codexlabscorp.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/lazar-arandjelovic-963206111",
-    "company_linkedin_url": "https://www.linkedin.com/company/100998705/",
-    "founder_name": "Lazar Arandjelovic",
-    "founder_score": 4,
-    "product_score": 8,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Harbour & Hills Financial Services Limited",
-    "company_website": "https://harbourandhills.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ognjen-petrovic-a6401422b",
-    "company_linkedin_url": "https://www.linkedin.com/company/harbour-hills-financial-services-limited/",
-    "founder_name": "Ognjen Petrovic",
-    "founder_score": 1,
-    "product_score": 8,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "CypherBlk",
-    "company_website": "https://cypherblk.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/mmihic96",
-    "company_linkedin_url": "https://www.linkedin.com/company/cypherblk/",
-    "founder_name": "Miloš Mihić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "BFC",
-    "company_website": "https://bfcflooring.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ivan-vlajkovic-a7353025",
-    "company_linkedin_url": "https://ca.linkedin.com/company/bfc-flooring-design-center",
-    "founder_name": "Ivan Vlajkovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Novel CyberTech",
-    "company_website": "https://villagebooks.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/zoran-savic-b3780226",
-    "company_linkedin_url": "https://www.linkedin.com/company/cybertechjsc",
-    "founder_name": "Zoran Savic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "QuickServeAI",
-    "company_website": "https://quickserveai.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nemanja-velickovic-ai-consultant-with-team-of-engineers",
-    "company_linkedin_url": "https://www.linkedin.com/company/103572849/",
-    "founder_name": "Nemanja Velickovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Strentex Innovations Ltd.",
-    "company_website": "https://goldeneyesmartvision.ai",
-    "person_linkedin_url": "https://www.linkedin.com/in/varun-jeoti-81384a31",
-    "company_linkedin_url": "https://fr.linkedin.com/company/goldeneye-smart-vision",
-    "founder_name": "VARUN JEOTI",
-    "founder_score": 4,
-    "product_score": 8,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "FlowTech",
-    "company_website": "https://flowtechsystems.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/-milantodorovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/108786242/",
-    "founder_name": "Milan Todorovic",
-    "founder_score": 3,
-    "product_score": 7,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Controlbox.rs",
-    "company_website": "https://controlbox.eu",
-    "person_linkedin_url": "https://www.linkedin.com/in/dušan-bubalo-319804197",
-    "company_linkedin_url": "https://www.linkedin.com/company/107961392/",
-    "founder_name": "Dušan Bubalo",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "VUI, Inc.",
-    "company_website": "https://vui.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ivana-vujic",
-    "company_linkedin_url": "https://www.linkedin.com/company/vui-inc/",
-    "founder_name": "Ivana Vujic",
-    "founder_score": 3,
-    "product_score": 7,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Biro SL",
-    "company_website": "https://jason.com.sg",
-    "person_linkedin_url": "https://www.linkedin.com/in/smiljana-lemic-63b61418",
-    "company_linkedin_url": "https://cn.linkedin.com/company/jason-electronics-pte-ltd",
-    "founder_name": "Smiljana Lemic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Cordant Health Solutions",
-    "company_website": "https://cordantsolutions.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/stefan-stamenović-8a6756172",
-    "company_linkedin_url": "https://www.linkedin.com/company/cordant-health-solutions",
-    "founder_name": "Stefan Stamenović",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Agentcy",
-    "company_website": "https://agentcy.xyz",
-    "person_linkedin_url": "https://www.linkedin.com/in/vlad-kooklev",
-    "company_linkedin_url": "https://www.linkedin.com/company/agentcyxyz/",
-    "founder_name": "Vlad Kuklev",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Veerny",
-    "company_website": "https://veerny.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/uros-tomic-0b215918",
-    "company_linkedin_url": "https://www.linkedin.com/company/veerny/",
-    "founder_name": "Uros Tomic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Alpha Technologies",
-    "company_website": "https://alpha.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/pericanikolic",
-    "company_linkedin_url": "https://www.linkedin.com/company/alpha-technologies/",
-    "founder_name": "Perica Nikolic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "PromoLens - AI for eCommerce Promotions",
-    "company_website": "https://promolens.ai",
-    "person_linkedin_url": "https://www.linkedin.com/in/raisa-khamidullina-a6172611",
-    "company_linkedin_url": "https://www.linkedin.com/company/promolens-ai/",
-    "founder_name": "Raisa Khamidullina",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Work Better Labs",
-    "company_website": "https://workbetterclub.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/maja-drnjevic",
-    "company_linkedin_url": "https://www.linkedin.com/company/workbetterlabs/",
-    "founder_name": "Maja Drnjevic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "AI-Media",
-    "company_website": "https://ai-media.tv",
-    "person_linkedin_url": "https://www.linkedin.com/in/branislava-lovre",
-    "company_linkedin_url": "https://www.linkedin.com/company/ai-media-tv/",
-    "founder_name": "Branislava Lovre",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "JobLess",
-    "company_website": "https://jobless.fr",
-    "person_linkedin_url": "https://www.linkedin.com/in/bendza",
-    "company_linkedin_url": "https://www.linkedin.com/company/jobless-full-stack/",
-    "founder_name": "Belmin Kurtanovic",
-    "founder_score": 8,
-    "product_score": 6,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Flowgeek",
-    "company_website": "https://owlbiomedical.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nmnjp",
-    "company_linkedin_url": "https://pk.linkedin.com/company/owl-biomedical",
-    "founder_name": "Nemanja Pavlović",
-    "founder_score": 1,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Liberté Events Group",
-    "company_website": "https://liberte-events.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/lazar-potrebić-2b72b617b",
-    "company_linkedin_url": "https://www.linkedin.com/company/liberte-events-group/",
-    "founder_name": "Lazar Potrebić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Powerhub Inc",
-    "company_website": "https://powerhub.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/daneblacic",
-    "company_linkedin_url": "https://ca.linkedin.com/company/powerhub-corp-",
-    "founder_name": "Dane Blacic",
-    "founder_score": 6,
-    "product_score": 8,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "BioCleaning",
-    "company_website": "https://biocleaning.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/aleksandar-jovanović-449b4115a",
-    "company_linkedin_url": "https://www.linkedin.com/company/biocleaningrs/",
-    "founder_name": "Aleksandar Jovanović",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "PropFusion",
-    "company_website": "https://propfusion.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ivankupresanin",
-    "company_linkedin_url": "https://www.linkedin.com/company/propfusion/",
-    "founder_name": "Ivan Kuprešanin",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Protocol CRM",
-    "company_website": "https://protocolcrm.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/dijana-keri",
-    "company_linkedin_url": "https://www.linkedin.com/company/protocol-crm/",
-    "founder_name": "Dijana Keri",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Yunee - AI Logo Generator",
-    "company_website": "https://yunee.io",
-    "person_linkedin_url": "https://www.linkedin.com/in/aleksandra-ilic-4676a511b",
-    "company_linkedin_url": "https://www.linkedin.com/company/yunee-ai-logo-generator/",
-    "founder_name": "Aleksandra Ilic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "WhereToPark",
-    "company_website": "https://wheretoparkapp.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/vedran-novak-b7a71050",
-    "company_linkedin_url": "https://www.linkedin.com/company/wheretoparksrbija/",
-    "founder_name": "Vedran Novak",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "FRM Labz",
-    "company_website": "https://fuel.me",
-    "person_linkedin_url": "https://www.linkedin.com/in/nikola-milovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/69010887/",
-    "founder_name": "Nikola Milović",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "The Cyber Protect",
-    "company_website": "https://thecyberprotect.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/gordic",
-    "company_linkedin_url": "https://www.linkedin.com/company/thecyberprotect/",
-    "founder_name": "Marko Gordić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Pet Alert",
-    "company_website": "https://petalert.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/nina-nedeljkovic-63a68949",
-    "company_linkedin_url": "https://www.linkedin.com/company/pet-alert-rs/",
-    "founder_name": "Nina Nedeljkovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Written",
-    "company_website": "https://written.app",
-    "person_linkedin_url": "https://www.linkedin.com/in/olga-alexeeva-84245636",
-    "company_linkedin_url": "https://www.linkedin.com/company/written-app/",
-    "founder_name": "Olga Alexeeva",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Chimp3",
-    "company_website": "https://chimp3.io",
-    "person_linkedin_url": "https://www.linkedin.com/in/milanchimp3",
-    "company_linkedin_url": "https://www.linkedin.com/company/chimp3/",
-    "founder_name": "Milan Radulovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "SUGGEST EAT",
-    "company_website": "https://suggesteat.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nikola-trajkovic-39834067",
-    "company_linkedin_url": "https://www.linkedin.com/company/suggest-eat/",
-    "founder_name": "Nikola Trajkovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "ZnamZnaš",
-    "company_website": "https://znamznas.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/nikolicdusan",
-    "company_linkedin_url": "https://www.linkedin.com/company/znamznas/",
-    "founder_name": "Dušan Nikolić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "IT Bridge EDU Center",
-    "company_website": "https://itbridge-services.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/andrijana-micunovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/it-bridge-edu-center/",
-    "founder_name": "Andrijana Micunovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Venčaj.me",
-    "company_website": "https://vencaj.me",
-    "person_linkedin_url": "https://www.linkedin.com/in/petar-mijović-01a94413b",
-    "company_linkedin_url": "https://www.linkedin.com/company/ven%c4%8daj-me/",
-    "founder_name": "Petar Mijović",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Fullstackista",
-    "company_website": "https://fullstackista.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ognjenmedic",
-    "company_linkedin_url": "https://www.linkedin.com/company/fullstackista/",
-    "founder_name": "Ognjen Medic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Recrewty",
-    "company_website": "https://recrewty.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/perovicmitar",
-    "company_linkedin_url": "https://www.linkedin.com/company/recrewty/",
-    "founder_name": "Mitar Perovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "IPMAgency",
-    "company_website": "https://yelp.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/aleksa-miljkovic-0a67a62b2",
-    "company_linkedin_url": "https://www.linkedin.com/company/102151913/",
-    "founder_name": "Aleksa Miljkovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Tribune",
-    "company_website": "https://tribune.cloud",
-    "person_linkedin_url": "https://www.linkedin.com/in/eugene-sugrobov",
-    "company_linkedin_url": "https://www.linkedin.com/company/tribunecloud/",
-    "founder_name": "Eugene Sugrobov",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Perfora Metals",
-    "company_website": "https://perforametals.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nenad-andonovic-160209213",
-    "company_linkedin_url": "https://www.linkedin.com/company/perfora-metals/",
-    "founder_name": "Nenad Andonovic",
-    "founder_score": 3,
-    "product_score": 6,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Talis",
-    "company_website": "https://talishr.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/milan-djokic-",
-    "company_linkedin_url": "https://www.linkedin.com/company/talishr/",
-    "founder_name": "Milan Đokić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "NavBlind",
-    "company_website": "https://navblind.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/slobodanisakovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/101042570/",
-    "founder_name": "Slobodan Isaković",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Atelje Martinović",
-    "company_website": "https://ateljemartinovic.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/uroš-martinović-31949957",
-    "company_linkedin_url": "https://www.linkedin.com/company/atelje-martinovi%c4%87/",
-    "founder_name": "Uroš Martinović",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Bliže Community",
-    "company_website": "https://notion.so",
-    "person_linkedin_url": "https://www.linkedin.com/in/evgeniia-ivanova",
-    "company_linkedin_url": "https://www.linkedin.com/company/blizecommunity/",
-    "founder_name": "Evgeniia Ivanova",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "B Sharp Technologies",
-    "company_website": "https://bsharp.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/stefan-ristic-0a0292246",
-    "company_linkedin_url": "https://www.linkedin.com/company/b-sharp-technologies/",
-    "founder_name": "Stefan Ristic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Adrialink Group",
-    "company_website": "https://adria-link.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/želimir-sekulić",
-    "company_linkedin_url": "https://www.linkedin.com/company/103035757/",
-    "founder_name": "Želimir Sekulić",
-    "founder_score": 5,
-    "product_score": 3,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Trinigence",
-    "company_website": "https://trinigence.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/mladenovic-petar",
-    "company_linkedin_url": "https://www.linkedin.com/company/trinigence/",
-    "founder_name": "Petar Mladenovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Snapster",
-    "company_website": "https://t.me",
-    "person_linkedin_url": "https://www.linkedin.com/in/efim-shvarev",
-    "company_linkedin_url": "https://www.linkedin.com/company/snapster-bot/",
-    "founder_name": "Efim Shvarev",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Moony.jpg",
-    "company_website": "https://roxom.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/zorana-stojakovic-444185309",
-    "company_linkedin_url": "https://sc.linkedin.com/company/roxom",
-    "founder_name": "Zorana Stojakovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "OmniSigma",
-    "company_website": "https://omnisigma.co",
-    "person_linkedin_url": "https://www.linkedin.com/in/sasa-bogdanovic-065a131b8",
-    "company_linkedin_url": "https://www.linkedin.com/company/omnisigma/",
-    "founder_name": "Sasa Bogdanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Hopexpress",
-    "company_website": "https://hop.express",
-    "person_linkedin_url": "https://www.linkedin.com/in/hopexpress-kurirska-služba-4b5563383",
-    "company_linkedin_url": "https://sg.linkedin.com/company/hop-express",
-    "founder_name": "Hopexpress Služba",
-    "founder_score": 2,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Tribal Camping",
-    "company_website": "https://tribalcamping.co",
-    "person_linkedin_url": "https://www.linkedin.com/in/aleksandar-spremo",
-    "company_linkedin_url": "https://www.linkedin.com/company/tribalcamping/",
-    "founder_name": "Aleksandar Spremo",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "BlahBlah",
-    "company_website": "https://blahblah.world",
-    "person_linkedin_url": "https://www.linkedin.com/in/vuk-saulic-ai-ethics",
-    "company_linkedin_url": "https://www.linkedin.com/company/99985181/",
-    "founder_name": "Vuk Saulic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Nyron AI",
-    "company_website": "https://nyron.ai",
-    "person_linkedin_url": "https://www.linkedin.com/in/ydrogan",
-    "company_linkedin_url": "https://www.linkedin.com/company/nyron/",
-    "founder_name": "Yuri Drogan",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "UR Brza hrana \"Kod Vuka\"",
-    "company_website": "https://wolt.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/daliborisakovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/107610171/",
-    "founder_name": "Dalibor Isaković",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Mindorah",
-    "company_website": "https://mindorah.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ariyan-wasi-86328a165",
-    "company_linkedin_url": "https://www.linkedin.com/company/mindorah/",
-    "founder_name": "Ariyan Wasi",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Edupoint Educational Systems, LLC",
-    "company_website": "https://edupoint.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ivana-djordjevic-20890b148",
-    "company_linkedin_url": "https://www.linkedin.com/company/edupoint-educational-systems-llc/",
-    "founder_name": "Ivana Djordjevic",
-    "founder_score": 1,
-    "product_score": 9,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "NCR Corporation",
-    "company_website": "https://ncr.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/mijodrag-stankovic-7883a3235",
-    "company_linkedin_url": "https://www.linkedin.com/company/ncr-corporation/",
-    "founder_name": "Mijodrag Stankovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "I:BICA (Inspiring: Broad Interdisciplinary Cultural Alliances)",
-    "company_website": "https://ibica.online",
-    "person_linkedin_url": "https://www.linkedin.com/in/lidija-ristić-916a39212",
-    "company_linkedin_url": "https://www.linkedin.com/company/i-bica-inspiring-broad-interdisciplinary-cultural-alliances/",
-    "founder_name": "Lidija Ristić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Reserve Wealth Digital",
-    "company_website": "https://stackwealth.in",
-    "person_linkedin_url": "https://www.linkedin.com/in/martin-jovanovic-3a682926a",
-    "company_linkedin_url": "https://br.linkedin.com/company/stackwealthhq",
-    "founder_name": "Martin Jovanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "PocketPsy",
-    "company_website": "https://azfem.az",
-    "person_linkedin_url": "https://www.linkedin.com/in/gkuravkin",
-    "company_linkedin_url": "https://www.linkedin.com/company/108180721/",
-    "founder_name": "George Kuravkin",
-    "founder_score": 3,
-    "product_score": null,
-    "market_opportunity_score": 4,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Rentyx AI",
-    "company_website": "https://rentyxai.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/timofei-korznikovvv",
-    "company_linkedin_url": "https://www.linkedin.com/company/rentyx-ai/",
-    "founder_name": "Timofei Korznikov",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Marina Int",
-    "company_website": "https://marinaint.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/vuk-bilić-647462335",
-    "company_linkedin_url": "https://www.linkedin.com/company/marina-int/",
-    "founder_name": "Vuk Bilić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "GRK Media",
-    "company_website": "https://be-solocal.fr",
-    "person_linkedin_url": "https://www.linkedin.com/in/mihajlo-grkovic-974156391",
-    "company_linkedin_url": "https://www.linkedin.com/company/grk-media",
-    "founder_name": "Mihajlo Grkovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Prepia",
-    "company_website": "https://prepia.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/viktor-pešić-44a19a17b",
-    "company_linkedin_url": "https://www.linkedin.com/company/prepia/",
-    "founder_name": "Viktor Pešić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "TenPal",
-    "company_website": "https://tenpal.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/konstantin-milovanovic-75115a11b",
-    "company_linkedin_url": "https://www.linkedin.com/company/tenpal/",
-    "founder_name": "Konstantin Milovanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Leadlix",
-    "company_website": "https://webflow.io",
-    "person_linkedin_url": "https://www.linkedin.com/in/katarina-ivkovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/leadlix/",
-    "founder_name": "Katarina Ivkovic",
-    "founder_score": 1,
-    "product_score": 8,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Piktoknjiga",
-    "company_website": "https://ananas.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/biljana-stojanovic-898941b6",
-    "company_linkedin_url": "https://www.linkedin.com/company/105658197/",
-    "founder_name": "Biljana Stojanovic",
-    "founder_score": 4,
-    "product_score": 6,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Bindigo",
-    "company_website": "https://pet-hub.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/urosg",
-    "company_linkedin_url": "https://www.linkedin.com/company/bindigo/",
-    "founder_name": "Uroš Grujičić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Refine",
-    "company_website": "https://refine-skills.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ristic-stefan",
-    "company_linkedin_url": "https://www.linkedin.com/company/refine-skills/",
-    "founder_name": "Stefan Ristic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "The Gold Call Show",
-    "company_website": "https://thegoldcall.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nikola-s-7a45a932a",
-    "company_linkedin_url": "https://www.linkedin.com/company/thegoldcallshow/",
-    "founder_name": "Nikola",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Qr Latte",
-    "company_website": "https://qrlatte.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/luka-dordevic",
-    "company_linkedin_url": "https://www.linkedin.com/company/qr-latte/",
-    "founder_name": "Luka Dordevic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Kremanac dizajn",
-    "company_website": "https://daibau.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/sofija-kremanac-14307a134",
-    "company_linkedin_url": "https://www.linkedin.com/company/86796810/",
-    "founder_name": "Sofija Kremanac",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Private Projects",
-    "company_website": "https://demsey.net",
-    "person_linkedin_url": "https://www.linkedin.com/in/farhad-zubaidullaev-6a8335398",
-    "company_linkedin_url": "https://www.linkedin.com/company/private-projects/",
-    "founder_name": "Farhad Zubaidullaev",
-    "founder_score": 5,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Generative Engine Optimization Platform (Stealth Mode)",
-    "company_website": "https://placeholder.page",
-    "person_linkedin_url": "https://www.linkedin.com/in/irina-luchak",
-    "company_linkedin_url": "https://www.linkedin.com/company/generative-engine-optimization-platform/",
-    "founder_name": "Irina Luchak",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "AI Academy",
-    "company_website": "https://ai-academy.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/mirkovic-luka",
-    "company_linkedin_url": "https://www.linkedin.com/company/110671341/",
-    "founder_name": "Luka Mirkovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "MyTails",
-    "company_website": "https://mytails.eu",
-    "person_linkedin_url": "https://www.linkedin.com/in/natalia-grishchenko-9541b2329",
-    "company_linkedin_url": "https://www.linkedin.com/company/mytails/",
-    "founder_name": "Natalia Grishchenko",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Espresso Guide",
-    "company_website": "https://espressoguide.app",
-    "person_linkedin_url": "https://www.linkedin.com/in/n-stojanovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/espresso-guide/",
-    "founder_name": "Nemanja Stojanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "VukConnect",
-    "company_website": "https://netlify.app",
-    "person_linkedin_url": "https://www.linkedin.com/in/vukasin-kitanovic-4a0385255",
-    "company_linkedin_url": "https://www.linkedin.com/company/vukconnect/",
-    "founder_name": "Vukasin Kitanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Imperium Technologies, Inc",
-    "company_website": "https://imperiumzone.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/pavle-anðelković-1614b1373",
-    "company_linkedin_url": "https://www.linkedin.com/company/imperium-technologies-llc/",
-    "founder_name": "Pavle Anðelković",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Auto Nation doo",
-    "company_website": "https://autonation.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/dristovski",
-    "company_linkedin_url": "https://www.linkedin.com/company/auto-nation-doo/",
-    "founder_name": "Dimitrije Ristovski",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Bindigo",
-    "company_website": "https://pet-hub.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/uroš-grujičić-5988b2237",
-    "company_linkedin_url": "https://www.linkedin.com/company/bindigo/",
-    "founder_name": "Uroš Grujičić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Webips Digital",
-    "company_website": "https://netlify.app",
-    "person_linkedin_url": "https://www.linkedin.com/in/ilija-popadic-27a4a72b3",
-    "company_linkedin_url": "https://www.linkedin.com/company/webips-digital/",
-    "founder_name": "Ilija Popadic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "AGRIMETRIX DOO",
-    "company_website": "https://companywall.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/goran-radovanovic-2202b526b",
-    "company_linkedin_url": "https://www.linkedin.com/company/102510449/",
-    "founder_name": "Goran Radovanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Blaind",
-    "company_website": "https://spotify.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/miloš-mladenović-2077042b1",
-    "company_linkedin_url": "https://www.linkedin.com/company/107962852/",
-    "founder_name": "Miloš Mladenović",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "MV Industries",
-    "company_website": "https://mvindustries.org",
-    "person_linkedin_url": "https://www.linkedin.com/in/igor-mrzic-a202732b0",
-    "company_linkedin_url": "https://www.linkedin.com/company/mvind/",
-    "founder_name": "Igor Mrzic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "GlowFlow",
-    "company_website": "https://instagram.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/jovan-popović-b32a99240",
-    "company_linkedin_url": "https://www.linkedin.com/company/glowflowsrbija/",
-    "founder_name": "Jovan Popović",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "AGRIMETRIX DOO",
-    "company_website": "https://companywall.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/slobodan-jocic-5222a7229",
-    "company_linkedin_url": "https://www.linkedin.com/company/102510449/",
-    "founder_name": "Slobodan Jocic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Mairloo",
-    "company_website": "https://mairloo.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/milanjevtovic",
-    "company_linkedin_url": "https://www.linkedin.com/company/mairloo/",
-    "founder_name": "Milan Jevtovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Prometix DOO",
-    "company_website": "https://companywall.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/ralevuk",
-    "company_linkedin_url": "https://www.linkedin.com/company/108774451/",
-    "founder_name": "Radovan Vukovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Self Employed",
-    "company_website": "https://chasedimond.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nemanja-bubanj-93347b219",
-    "company_linkedin_url": "https://www.linkedin.com/company/self-employed122/",
-    "founder_name": "Nemanja Bubanj",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "HealOutSource",
-    "company_website": "https://healoutsource.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/natalia-meretskaia-8b0689314",
-    "company_linkedin_url": "https://www.linkedin.com/company/healoutsource/",
-    "founder_name": "Natalia Meretskaia",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "EstiWiz",
-    "company_website": "https://webflow.io",
-    "person_linkedin_url": "https://www.linkedin.com/in/andrijana-jakovljevic",
-    "company_linkedin_url": "https://www.linkedin.com/company/estiwiz/",
-    "founder_name": "Andrijana Jakovljevic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Elephant Store @ Telegram",
-    "company_website": "https://t.me",
-    "person_linkedin_url": "https://www.linkedin.com/in/ayukaev",
-    "company_linkedin_url": "https://www.linkedin.com/company/elephantstore/",
-    "founder_name": "Vlad Ayukaev",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Prepia",
-    "company_website": "https://prepia.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/viktor-pesic-44a19a17b",
-    "company_linkedin_url": "https://www.linkedin.com/company/prepia/",
-    "founder_name": "Viktor Pesic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Talis",
-    "company_website": "https://talishr.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/miloš-zajkesković",
-    "company_linkedin_url": "https://www.linkedin.com/company/talishr/",
-    "founder_name": "Miloš",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Lawcrative",
-    "company_website": "https://lawcrative.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nemanjasamac",
-    "company_linkedin_url": "https://www.linkedin.com/company/lawcrative/",
-    "founder_name": "Nemanja Samac",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "IGROW",
-    "company_website": "https://igrow.software",
-    "person_linkedin_url": "https://www.linkedin.com/in/ana-riđić-50050396",
-    "company_linkedin_url": "https://www.linkedin.com/company/107703239/",
-    "founder_name": "Ana Riđić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Own Company",
-    "company_website": "https://owndata.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ekaterina-u-2325b8389",
-    "company_linkedin_url": "https://www.linkedin.com/company/owndata/",
-    "founder_name": "Ekaterina",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Leadlix",
-    "company_website": "https://webflow.io",
-    "person_linkedin_url": "https://www.linkedin.com/in/aleksandar-stojadinovic-leadlix",
-    "company_linkedin_url": "https://www.linkedin.com/company/leadlix/",
-    "founder_name": "Aleksandar Stojadinovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "VosGaj",
-    "company_website": "https://companywall.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/vukasin-vostic-bb133a343",
-    "company_linkedin_url": "https://www.linkedin.com/company/108598212/",
-    "founder_name": "Vukasin Vostic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Refine",
-    "company_website": "https://refine-skills.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/alex-refine",
-    "company_linkedin_url": "https://www.linkedin.com/company/refine-skills/",
-    "founder_name": "Aleksandar Stojanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "HealOutSource",
-    "company_website": "https://healoutsource.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/natalia-meretskaia",
-    "company_linkedin_url": "https://www.linkedin.com/company/healoutsource/",
-    "founder_name": "Natalia Meretskaia",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Quant Lambda · Independent Research Project",
-    "company_website": "https://rivian.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/alex-senkevich-990a09180",
-    "company_linkedin_url": "https://www.linkedin.com/company/737010/",
-    "founder_name": "Alex Senkevich",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "YXS Wealth",
-    "company_website": "https://markets.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/dr-ivana-milosev-180568288",
-    "company_linkedin_url": "https://www.linkedin.com/company/105414276/",
-    "founder_name": "Ivana Milosev",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Nekretnina od Srca",
-    "company_website": "https://nekretninaodsrca.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/nikolamflow",
-    "company_linkedin_url": "https://www.linkedin.com/company/nekretnina-od-srca/",
-    "founder_name": "Nikola Milovanovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "NNAI",
-    "company_website": "https://framer.ai",
-    "person_linkedin_url": "https://www.linkedin.com/in/nemanja-adamovic-a34097380",
-    "company_linkedin_url": "https://www.linkedin.com/company/nnaiautomation/",
-    "founder_name": "Nemanja Adamovic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Valero doo, Vrbas",
-    "company_website": "https://valero.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/petar-karanov-a2726175",
-    "company_linkedin_url": "https://www.linkedin.com/company/111152169/",
-    "founder_name": "Petar Karanov",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "EVERYDAY TECHNOLOGY",
-    "company_website": "https://everyday.rs",
-    "person_linkedin_url": "https://www.linkedin.com/in/milos-stojicic-9a6308182",
-    "company_linkedin_url": "https://www.linkedin.com/company/everyday-technology/",
-    "founder_name": "Milos Stojicic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Lucky Soul Inc",
-    "company_website": "https://luckysoulusa.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ivana-jakovljević-1335503a7",
-    "company_linkedin_url": "https://www.linkedin.com/company/luckysoul/",
-    "founder_name": "Ivana Jakovljević",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Multi Mode d.o.o.",
-    "company_website": "https://se.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/miloš-dobrić-3b146135",
-    "company_linkedin_url": "https://www.linkedin.com/company/schneider-electric",
-    "founder_name": "Miloš Dobrić",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
-  },
-  {
-    "company_name": "Berda Fruit Co.,Ltd",
-    "company_website": "https://berdafruit.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/vberdic",
-    "company_linkedin_url": "https://www.linkedin.com/company/berda-fruit-co-ltd/",
-    "founder_name": "Veljko Berdic",
-    "founder_score": null,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null
   }
 ]

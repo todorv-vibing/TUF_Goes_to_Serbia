@@ -94,7 +94,7 @@ const katapultFounders = {
 
 // ========== FILE 1: Serbian Product Companies ==========
 console.log('Parsing Serbian Product Companies...');
-const file1 = fs.readFileSync(path.join(__dirname, '..', 'Downloads', 'Serbian-Founders-for-Real-Default-view-export-1770299100693.csv'), 'utf8');
+const file1 = fs.readFileSync(path.join(__dirname, '..', 'Downloads', 'Serbian-Founders-for-Real-Default-view-export-1770300275575.csv'), 'utf8');
 const rows1 = parseCSV(file1);
 const headers1 = rows1[0];
 
@@ -118,6 +118,9 @@ for (let i = 1; i < rows1.length; i++) {
     const productScore = parseFloat(row[idx['Product Score']]) || null;
     const marketScore = parseFloat(row[idx['Market Opportunity Score']]) || null;
     const overallScore = parseFloat(row[idx['Overall Weighted Score']]) || null;
+
+    // Only include companies with complete ratings
+    if (founderScore === null || productScore === null || marketScore === null || overallScore === null) continue;
 
     serbianCompanies.push({
         company_name: row[idx['Company Name']] || '',
