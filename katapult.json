@@ -1,0 +1,57 @@
+[
+  {
+    "company_name": "Tricoman Studios",
+    "company_website": "https://tricomanstudios.com/",
+    "person_linkedin_url": "https://www.linkedin.com/in/borislavvesnic/",
+    "company_linkedin_url": "https://rs.linkedin.com/company/tricoman-studios",
+    "founder_name": "Borislav Vesnic",
+    "founder_score": 7,
+    "product_score": 6,
+    "market_opportunity_score": 5,
+    "overall_weighted_score": 6
+  },
+  {
+    "company_name": "Softech",
+    "company_website": "https://www.softech.es/",
+    "person_linkedin_url": "https://www.linkedin.com/in/ognjenlukic/",
+    "company_linkedin_url": "https://rs.linkedin.com/company/softechs",
+    "founder_name": "Ognjen Lukic",
+    "founder_score": 4,
+    "product_score": 8,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.3
+  },
+  {
+    "company_name": "Beyond42",
+    "company_website": "https://www.beyond42.com",
+    "person_linkedin_url": "https://www.linkedin.com/in/dusanka-ilic/",
+    "company_linkedin_url": "https://rs.linkedin.com/company/beyond42digitaltwinplatform",
+    "founder_name": "Dusanka Ilic",
+    "founder_score": 4,
+    "product_score": 7,
+    "market_opportunity_score": 6,
+    "overall_weighted_score": 5.2
+  },
+  {
+    "company_name": "DeepMark",
+    "company_website": "https://www.deepmark.me",
+    "person_linkedin_url": "https://www.linkedin.com/in/slavkokovacevic/",
+    "company_linkedin_url": "https://www.linkedin.com/company/deepmark",
+    "founder_name": "Slavko Kovacevic",
+    "founder_score": 9,
+    "product_score": 9,
+    "market_opportunity_score": null,
+    "overall_weighted_score": null
+  },
+  {
+    "company_name": "MoveRev",
+    "company_website": "https://moverev.io",
+    "person_linkedin_url": "https://www.linkedin.com/in/djordje-savic/",
+    "company_linkedin_url": "https://www.linkedin.com/in/djordje-savic/",
+    "founder_name": "Djordje Savic",
+    "founder_score": null,
+    "product_score": null,
+    "market_opportunity_score": null,
+    "overall_weighted_score": null
+  }
+]
