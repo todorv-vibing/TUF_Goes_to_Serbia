@@ -94,7 +94,7 @@ const katapultFounders = {
 
 // ========== FILE 1: Serbian Product Companies ==========
 console.log('Parsing Serbian Product Companies...');
-const file1 = fs.readFileSync(path.join(__dirname, '..', 'Downloads', 'Serbian-Founders-for-Real-Default-view-export-1770294939464.csv'), 'utf8');
+const file1 = fs.readFileSync(path.join(__dirname, '..', 'Downloads', 'Serbian-Founders-for-Real-Default-view-export-1770299100693.csv'), 'utf8');
 const rows1 = parseCSV(file1);
 const headers1 = rows1[0];
 
