@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="4219c3d1-941e-4cc7-8c15-b157cdd9d935"></script>
     <script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -399,15 +400,15 @@
 
     <nav class="tab-container">
         <div class="tabs">
-            <button class="tab active" data-tab="companies">
+            <button class="tab active" data-tab="companies" data-umami-event="Tab: Serbian Product Companies">
                 Serbian Product Companies
                 <span class="tab-badge" id="badge-companies">0</span>
             </button>
-            <button class="tab" data-tab="founders">
+            <button class="tab" data-tab="founders" data-umami-event="Tab: Founders">
                 Founders
                 <span class="tab-badge" id="badge-founders">0</span>
             </button>
-            <button class="tab" data-tab="katapult">
+            <button class="tab" data-tab="katapult" data-umami-event="Tab: Katapult Accelerator">
                 Katapult Accelerator
                 <span class="tab-badge" id="badge-katapult">0</span>
             </button>
@@ -485,8 +486,12 @@
         function linkCellRenderer(params) {
             if (!params.value) return '<span class="score-na">&mdash;</span>';
             const url = params.value;
-            const displayText = url.includes('linkedin.com') ? 'LinkedIn' : 'Website';
-            return `<span class="link-cell"><a href="${url}" target="_blank" rel="noopener">${displayText} &nearr;</a></span>`;
+            const isLinkedIn = url.includes('linkedin.com');
+            const displayText = isLinkedIn ? 'LinkedIn' : 'Website';
+            const eventName = isLinkedIn ? 'Click: LinkedIn Profile' : 'Click: Company Website';
+            const entityName = params.data.company_name || params.data.founder_name || params.data.full_name || '';
+            const safeEntity = entityName.replace(/"/g, '&quot;');
+            return `<span class="link-cell"><a href="${url}" target="_blank" rel="noopener" data-umami-event="${eventName}" data-umami-event-name="${safeEntity}" data-umami-event-url="${url}">${displayText} &nearr;</a></span>`;
         }
 
         // Grid Instances
