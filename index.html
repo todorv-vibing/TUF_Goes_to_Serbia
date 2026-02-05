@@ -240,9 +240,9 @@
             border-radius: 4px;
             font-size: 12px;
         }
-        .score-high { background: #dcfce7; color: #166534; }
-        .score-medium { background: #fef3c7; color: #92400e; }
-        .score-low { background: #fee2e2; color: #991b1b; }
+        .score-high { background: #dcfce7; color: #14532d; }
+        .score-medium { background: #fef3c7; color: #78350f; }
+        .score-low { background: #fee2e2; color: #7f1d1d; }
         .score-na { color: #999; }
 
         /* Link Cell Styling */
@@ -309,6 +309,17 @@
             color: #333;
             white-space: pre-wrap;
             word-wrap: break-word;
+        }
+
+        /* Keyboard focus indicators */
+        .tab:focus-visible {
+            outline: 2px solid #8B6B9B;
+            outline-offset: -2px;
+            background: #f8f5fa;
+        }
+        .cell-modal-close:focus-visible {
+            outline: 2px solid #8B6B9B;
+            outline-offset: 2px;
         }
 
         /* Responsive - Tablet */
@@ -481,45 +492,47 @@
         // Grid Instances
         let companiesGrid, foundersGrid, katapultGrid;
 
-        // Check if mobile
-        const isMobile = window.innerWidth <= 768;
+        // Responsive column visibility: mobile (<640px), tablet (640-1024), desktop (>1024)
+        function getBreakpoint() {
+            const w = window.innerWidth;
+            if (w <= 640) return 'mobile';
+            if (w <= 1024) return 'tablet';
+            return 'desktop';
+        }
 
-        // Companies Grid Columns (Tab 1)
-        const companiesColumns = [
-            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
-            { headerName: 'Company', field: 'company_name', flex: 1.5, filter: true, sortable: true, minWidth: 120 },
-            { headerName: 'Website', field: 'company_website', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
-            { headerName: 'Founder', field: 'founder_name', flex: 1, filter: true, sortable: true, minWidth: 100, hide: isMobile },
-            { headerName: 'LinkedIn', field: 'person_linkedin_url', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
-            { headerName: 'Overall', field: 'overall_weighted_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' },
-            { headerName: 'Founder', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
-            { headerName: 'Product', field: 'product_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
-            { headerName: 'Market', field: 'market_opportunity_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile }
-        ];
+        function buildCompanyColumns(bp) {
+            const isMobile = bp === 'mobile';
+            const isTablet = bp === 'tablet';
+            return [
+                { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
+                { headerName: 'Company', field: 'company_name', flex: 1.5, filter: true, sortable: true, minWidth: 120 },
+                { headerName: 'Website', field: 'company_website', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
+                { headerName: 'Founder', field: 'founder_name', flex: 1, filter: true, sortable: true, minWidth: 100, hide: isMobile },
+                { headerName: 'LinkedIn', field: 'person_linkedin_url', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
+                { headerName: 'Overall', field: 'overall_weighted_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' },
+                { headerName: 'Founder', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
+                { headerName: 'Product', field: 'product_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
+                { headerName: 'Market', field: 'market_opportunity_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile }
+            ];
+        }
 
-        // Founders Grid Columns (Tab 2)
-        const foundersColumns = [
-            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
-            { headerName: 'Founder Name', field: 'full_name', flex: 1.2, filter: true, sortable: true, minWidth: 120 },
-            { headerName: 'LinkedIn', field: 'linkedin_url', cellRenderer: linkCellRenderer, width: 90 },
-            { headerName: 'Education', field: 'education', flex: 2, filter: true, minWidth: 200,
-              cellStyle: { 'white-space': 'nowrap', 'overflow': 'hidden', 'text-overflow': 'ellipsis' }
-            },
-            { headerName: 'Score', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' }
-        ];
+        function buildFounderColumns(bp) {
+            const isMobile = bp === 'mobile';
+            return [
+                { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
+                { headerName: 'Founder Name', field: 'full_name', flex: 1.2, filter: true, sortable: true, minWidth: 120 },
+                { headerName: 'LinkedIn', field: 'linkedin_url', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
+                { headerName: 'Education', field: 'education', flex: 2, filter: true, minWidth: isMobile ? 120 : 200,
+                  cellStyle: { 'white-space': 'nowrap', 'overflow': 'hidden', 'text-overflow': 'ellipsis' }
+                },
+                { headerName: 'Score', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' }
+            ];
+        }
 
-        // Katapult Grid Columns (Tab 3 - same as Tab 1)
-        const katapultColumns = [
-            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
-            { headerName: 'Company', field: 'company_name', flex: 1.5, filter: true, sortable: true, minWidth: 120 },
-            { headerName: 'Website', field: 'company_website', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
-            { headerName: 'Founder', field: 'founder_name', flex: 1, filter: true, sortable: true, minWidth: 100, hide: isMobile },
-            { headerName: 'LinkedIn', field: 'person_linkedin_url', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
-            { headerName: 'Overall', field: 'overall_weighted_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' },
-            { headerName: 'Founder', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
-            { headerName: 'Product', field: 'product_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
-            { headerName: 'Market', field: 'market_opportunity_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile }
-        ];
+        let currentBp = getBreakpoint();
+        const companiesColumns = buildCompanyColumns(currentBp);
+        const foundersColumns = buildFounderColumns(currentBp);
+        const katapultColumns = buildCompanyColumns(currentBp);
 
         // Cell detail modal
         const modal = document.getElementById('cellModal');
@@ -634,6 +647,21 @@
                     else if (tabId === 'katapult') katapultGrid.sizeColumnsToFit?.();
                 }, 100);
             });
+        });
+
+        // Responsive resize handler - update column visibility on breakpoint change
+        let resizeTimer;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(() => {
+                const newBp = getBreakpoint();
+                if (newBp !== currentBp) {
+                    currentBp = newBp;
+                    if (companiesGrid) companiesGrid.setGridOption('columnDefs', buildCompanyColumns(newBp));
+                    if (foundersGrid) foundersGrid.setGridOption('columnDefs', buildFounderColumns(newBp));
+                    if (katapultGrid) katapultGrid.setGridOption('columnDefs', buildCompanyColumns(newBp));
+                }
+            }, 150);
         });
     </script>
 </body>
